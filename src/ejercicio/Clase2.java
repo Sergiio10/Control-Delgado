@@ -14,4 +14,5 @@ public class Clase2 {
         System.out.println("Primera linea");
         System.out.println("Segunda linea");
     }
+    
 }
