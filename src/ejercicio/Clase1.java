@@ -7,7 +7,7 @@ package ejercicio;
 
 /**
  *
- * @author dam
+ * @author Sergio Delgado
  */
 public class Clase1 {
     public void Clase() {
